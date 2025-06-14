@@ -51,3 +51,12 @@ This project utilizes **Generative AI** through carefully crafted prompts and in
 - Prompt engineering
 - User-driven context
 - Firebase-stored data
+
+---
+
+## 📹 Demo
+
+- 🔗 [App Runthrough (Video)](https://bit.ly/eecsync-app-runthrough)
+- 🔗 [UI Animation Preview](https://bit.ly/eecsync-ui-animation)
+
+---
