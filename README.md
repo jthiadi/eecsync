@@ -1,6 +1,6 @@
 # eecsync
 
-**eecsync** is an AI-powered platform designed to streamline the academic journey of EECS (Electrical Engineering and Computer Science) students. Whether it’s selecting the right courses or finding part-time academic roles, eecsync keeps everything in sync — all in one place.
+**eecsync** is an AI-powered platform designed to assist the academic journey of EECS (Electrical Engineering and Computer Science) students. Whether it’s selecting the right courses or finding part-time academic roles, eecsync keeps everything in sync — all in one place.
 
 ---
 
